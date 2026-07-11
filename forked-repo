@@ -1,12 +1,12 @@
-$ curl -s https://api.github.com/repos/NonomiyaIzumi/mcino-Introduction-to-Git-and-GitHub
+$ curl -s https://api.github.com/repos/NonomiyaIzumi/github-final-project
 {
   "id": 1297477017,
-  "name": "mcino-Introduction-to-Git-and-GitHub",
-  "full_name": "NonomiyaIzumi/mcino-Introduction-to-Git-and-GitHub",
+  "name": "github-final-project",
+  "full_name": "NonomiyaIzumi/github-final-project",
   "private": false,
-  "html_url": "https://github.com/NonomiyaIzumi/mcino-Introduction-to-Git-and-GitHub",
+  "html_url": "https://github.com/NonomiyaIzumi/github-final-project",
   "fork": true,
-  "url": "https://api.github.com/repos/NonomiyaIzumi/mcino-Introduction-to-Git-and-GitHub",
+  "url": "https://api.github.com/repos/NonomiyaIzumi/github-final-project",
   "parent": {
     "name": "mcino-Introduction-to-Git-and-GitHub",
     "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",

@@ -1,18 +1,18 @@
-$ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/9187
+$ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/9188
 {
-  "number": 9187,
+  "number": 9188,
   "state": "closed",
-  "title": "Fix typo in simple-interest.sh",
-  "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/9187",
+  "title": "Bug fix revert demo",
+  "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/9188",
   "user": {
     "login": "NonomiyaIzumi"
   },
   "head": {
-    "label": "NonomiyaIzumi:bug-fix-typo",
-    "ref": "bug-fix-typo",
+    "label": "NonomiyaIzumi:bug-fix-revert",
+    "ref": "bug-fix-revert",
     "repo": {
-      "full_name": "NonomiyaIzumi/mcino-Introduction-to-Git-and-GitHub",
-      "html_url": "https://github.com/NonomiyaIzumi/mcino-Introduction-to-Git-and-GitHub",
+      "full_name": "NonomiyaIzumi/github-final-project",
+      "html_url": "https://github.com/NonomiyaIzumi/github-final-project",
       "fork": true
     }
   },
@@ -23,4 +23,11 @@ $ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introd
       "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
     }
   }
+}
+
+$ curl -s https://api.github.com/repos/NonomiyaIzumi/github-final-project
+{
+  "full_name": "NonomiyaIzumi/github-final-project",
+  "html_url": "https://github.com/NonomiyaIzumi/github-final-project",
+  "fork": true
 }
