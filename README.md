@@ -1,8 +1,11 @@
-# Introduction to Git and GitHub
+# mcino-Introduction-to-Git-and-GitHub
 
 ## Simple Interest Calculator
 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+**Project name:** mcino-Introduction-to-Git-and-GitHub
+**Maintained by:** NonomiyaIzumi
+
+This project is the final assignment for the *Getting Started with Git and GitHub* course. It contains a Bash command-line calculator that computes simple interest given a principal amount, an annual rate of interest, and a time period in years.
 
 ```
 Input:
